@@ -61,3 +61,21 @@
 // 160mS        67
 // 240mS        68
 // 320mS        69
+
+// Single tone beep duration change chars
+// Duration     Code
+// 10mS         70
+// 20mS         71
+// 30mS         72
+// 40mS         73
+// 60mS         74
+// 80mS         75
+// 120mS        76
+// 160mS        77
+// 240mS        78
+// 320mS        79
+
+// Single tone beep parameters
+// Parameter    Code
+// auto gap off 55
+// auto gap on  56
