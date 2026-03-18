@@ -48,3 +48,16 @@
 // 3520     A6      45
 // 3729     A#6     46
 // 3951     B6      47
+
+// Single Tone Beep gap change chars
+// Gap change   Code
+// 10mS         60
+// 20mS         61
+// 30mS         62
+// 40mS         63
+// 60mS         64
+// 80mS         65
+// 120mS        66
+// 160mS        67
+// 240mS        68
+// 320mS        69
