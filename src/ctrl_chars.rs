@@ -1,4 +1,5 @@
 // Control  Character Definition                                Page
+// 97xx     Message Routing port numbers follow                 6-4
 // 9900     CW characters follow                                6-13
 // 9901     CW Primary characters follow                        6-13
 // 9902     CW Secondary characters follow                      6-13
