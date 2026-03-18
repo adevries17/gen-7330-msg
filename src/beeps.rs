@@ -1,3 +1,5 @@
+// Single tone control chars 9910/99911/9912
+// Dual tone control chars 9915/9916/9917
 // Factory fixed frequency beeps
 // FreqHz   Note    Beep
 // 262      C3      00
@@ -49,7 +51,7 @@
 // 3729     A#6     46
 // 3951     B6      47
 
-// Single Tone Beep gap change chars
+// Beep gap change chars
 // Gap change   Code
 // 10mS         60
 // 20mS         61
@@ -62,7 +64,7 @@
 // 240mS        68
 // 320mS        69
 
-// Single tone beep duration change chars
+// beep duration change chars
 // Duration     Code
 // 10mS         70
 // 20mS         71
@@ -75,7 +77,7 @@
 // 240mS        78
 // 320mS        79
 
-// Single tone beep parameters
+// beep parameters
 // Parameter    Code
 // auto gap off 55
 // auto gap on  56
