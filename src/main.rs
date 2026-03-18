@@ -1,3 +1,4 @@
+mod beeps;
 mod ctrl_chars;
 mod cw;
 
